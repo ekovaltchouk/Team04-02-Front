@@ -1,63 +1,70 @@
-# Team04-02-Front
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/ekovaltchouk/logo">
-    <img src="https://github.com/ekovaltchouk/logo/blob/main/Logo.png?raw=true" alt="Logo" width="120" height="120">
-  </a>
+# Getting Started with Create React App
 
-<h2 align="center">Angels Among Us Website Enhancement With Chatbot</h3>
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-  <p align="center">
-    Angels Among Us Pet Rescue is a non-profit organization based in Alpharetta, GA, dedicated to rescuing unwanted, abandoned, abused, and stray dogs and cats across Georgia. The organization's website, https://angelsrescue.org/, serves as a crucial platform for engaging with potential donors, adopters, and volunteers. 
-    <br />
-</p>
-</div>
+## Available Scripts
 
+In the project directory, you can run:
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+### `npm start`
 
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The objectives of the project are to: 
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-- Enhance the Angels Among Us Pet Rescue website with a chatbot to answer basic questions from potential donors, adopters, and volunteers. 
+### `npm test`
 
-- Provide a user-friendly interface similar to the Atlanta Humane Society's website (https://atlantahumane.org/). 
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-- Improve user engagement and streamline the process of obtaining information about donations, adoptions, and volunteer opportunities. 
+### `npm run build`
 
-- Ensure the chatbot is integrated seamlessly with the existing website design and functionality. 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-### Built With
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-* [![Node][Node.js]][Node-url]
-* [![Mongo][MongoDB]][Mongo-url]
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `npm run eject`
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-[Node.js]: https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white
-[Node-url]: https://nodejs.org/en
-[MongoDB]: https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF
-[Mongo-url]: https://www.mongodb.com/
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-<!-- GETTING STARTED -->
-## Getting Started
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-give instructions on setting up project locally...
-To get a local copy up and running follow these simple example steps...
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-### Prerequisites
+## Learn More
 
-list things you need to use the software and how to install them...
-* Node.js and npm
-  ```sh
-  npm install npm@latest -g
-  ```
-* MongoDB or another NoSQL database
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
+To learn React, check out the [React documentation](https://reactjs.org/).
 
+### Code Splitting
 
-### Installation
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
